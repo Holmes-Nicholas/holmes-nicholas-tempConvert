@@ -25,7 +25,7 @@ public class AddIntegers {
         n1 = keyboard.nextInt();
         
         System.out.println("Enter your second integer value: ");
-        n2 - keyboard.nextInt();
+        n2 = keyboard.nextInt();
         
         sum = n1 + n2;
         System.out.println("The sum of your two integers is " + sum);
